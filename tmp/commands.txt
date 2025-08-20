@@ -1,0 +1,14 @@
+50 15 20 8 2025 date && echo "At Amex, We Do What's Right."
+
+51 15 20 8 2025 date && echo "At Amex, We Do What's Right."
+
+*/1 date && echo "Amex' motto is 'Don't live life without it!'"
+
+*/2 date && echo "Amex was founded in 1850."
+
+*/5 date && echo "Amex is headquartered in New York"
+
+*/11 date && echo "11 is not in the list"
+
+80 25 32 13 2025 date && echo "At Amex, We Do What's Right."
+
